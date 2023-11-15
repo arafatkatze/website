@@ -2,30 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: basepic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>  </p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi,
-This is Arafat I am a human alchemical. An outdoor enthusiast and avid traveler, I cherish the world's beauty and cultural richness. Books are my constant companions, and I eagerly share the knowledge and wisdom they offer. With a flair for fashion and skincare, I believe in looking good, day or night. Technology's ever-evolving canvas fascinates me, as does the world of art in all its forms. I capture life's beauty through photography, delve into fashion culture, and seek the elegance in technology. Snow holds a special place in my heart, symbolizing tranquility and excitement. My ultimate goal is to create beauty and love in the world, aspiring to a life of happiness, health, and unity.
+Hi,   
+
+This is Arafat. I find myself at the intersection of many things that entail art, love and beauty in all its forms. My primary expression of art is technology, I spend most of my days playing with AI to build beautiful things for others.
 
 
-Address:
-I hop between a lot of places and recently had to send an application that required mentioning of all my addresses, turns out I had 17 addresses in the last 5 years. I have lived in 5 different countries and many different provinces of Canada. The closest thing I have to home would be Canada. 
+I really enjoy knowing more about the world and its complexity in deeper ways so I read and explore a lot. I hop between many different places. Recently, I had to send an application that required mentioning of all my addresses and turns out I had 17 addresses in the last 5 years. I have travelled to 21 and lived in 5 different countries and in many different provinces of Canada. The closest thing I have to home would be Canada. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+As a Proud Canadian, I am a huge fan of nature. I have spent a lot of time hiking, skiing and snowboarding in the Canadian Rockies. I have learnt so much about beauty, love and friendship through the times I have spent in the mountains with my friends. I even had a few close counters with death but it all worked out in the end. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have a lot of socials and I am learning how to document and share more of life and thoughts with the world. You can check them out below:
