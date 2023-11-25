@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi,   
 
-This is Arafat. I find myself at the intersection of many things that entail art, love and beauty in all its forms. My primary expression of art is technology, I spend most of my days playing with AI to build beautiful things for others.
+This is Ara. I find myself at the intersection of many things that entail art, love and beauty in all its forms. My primary expression of art is technology, I spend most of my days playing with AI to build beautiful things for others.
 
 
 I really enjoy knowing more about the world and its complexity in deeper ways so I read and explore a lot. I hop between many different places. Recently, I had to send an application that required mentioning of all my addresses and turns out I had 17 addresses in the last 5 years. I have travelled to 21 and lived in 5 different countries and in many different provinces of Canada(The closest thing I have to a home). 
