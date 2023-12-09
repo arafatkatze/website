@@ -1,7 +1,6 @@
 {
   "basics": {
     "name": "Arafat Khan",
-    "label": "Code Artisan",
     "image": "",
     "email": "arafat.da.khan@gmail.com",
     "phone": "+1-343-999-5219",
@@ -119,7 +118,72 @@
       "fluency": "Native speaker"
     }
   ],
-  "interests": [],
+  "interests": [
+    {
+      "name": "DevopsDays Recife",
+      "icon": "fa fa-music",
+      "items": ["Sub-interest 1", "Sub-interest 2"],
+      "keywords": ["2022","Talked about how to be a digital nomad as a tech worker"]
+    },  
+  {
+    "name": "Google Developers Windsor",
+    "icon": "fa fa-music",
+    "items": ["Sub-interest 1", "Sub-interest 2"],
+    "keywords": ["2020","Presented Tensorflow Ruby in the context of Google"]
+  },
+  {
+    "name": "Gophercon India",
+    "icon": "fa fa-music",
+    "items": ["Sub-interest 1", "Sub-interest 2"],
+    "keywords": ["2019","Presented Data and Algorithm visualizations in Golang at the largest Golang conference in India"]
+  },
+  {
+    "name": "GowayFest Belarus",
+    "icon": "fa fa-music",
+    "items": ["Sub-interest 1", "Sub-interest 2"],
+    "keywords": ["2018","Presented visualizations in Golang at GowayFest Belarus"]
+  },
+  {
+    "name": "Ruby on Ice, Tegernsee, Germany",
+    "icon": "fa fa-music",
+    "items": ["Sub-interest 1", "Sub-interest 2"],
+    "keywords": ["2018","Presented a 3 hour workshop on Machine learning and Tensorflow in Ruby"]
+  },
+  {
+    "name": "Euroko Ruby Conference",
+    "icon": "fa fa-book",
+    "items": ["Sub-interest 1", "Sub-interest 2"],
+    "keywords": ["2017","Presented as the youngest speaker at European Ruby Conference: the largest ruby conference in Europe", "500+ Attendees", "This was the first time I introduced Tensorflow Ruby to the world"]
+  }],
   "references": [],
-  "projects": []
+  "projects": [
+    {
+      "url": "https://github.com/somaticio/tensorflow.rb",
+      "name": "Tensorflow.rb",
+      "summary": "I wrote Tensorflow for Ruby",
+      "highlights": [
+        "Spoke about this project at many tech conferences all over Europe and North America",
+        "Project was eventually endorsed by Ruby Association",
+        "Project trended on Github for a few days"
+      ]
+    },
+    {
+      "url": "https://github.com/arafatkatze/dataviz",
+      "name": "Dataviz",
+      "summary": "A perfect algorithms explaination library written in Golang",
+      "highlights": [
+        "Designed a user-friendly codebase to understand complex algorithms visually",
+        "Presented my work at Gophercon in Belarus and India"
+      ]
+    },
+    {
+      "url": "https://github.com/arafatkatze/glot",
+      "name": "Glot",
+      "summary": "A plotting library in Golang built on top of GNU Plot",
+      "highlights": [
+        "Added golang support for styles like lines, points, bars, steps, histogram, circle",
+        "Presented my work at Gophercon in Belarus and India"
+      ]
+    }
+  ]
 }
