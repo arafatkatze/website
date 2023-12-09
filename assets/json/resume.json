@@ -118,7 +118,7 @@
       "fluency": "Native speaker"
     }
   ],
-  "interests": [
+  "speaking": [
     {
       "name": "DevopsDays Recife",
       "icon": "fa fa-music",
@@ -133,7 +133,7 @@
   },
   {
     "name": "Gophercon India",
-    "icon": "fa fa-music",
+    "icon": "fa fa-book",
     "items": ["Sub-interest 1", "Sub-interest 2"],
     "keywords": ["2019","Presented Data and Algorithm visualizations in Golang at the largest Golang conference in India"]
   },
@@ -145,7 +145,7 @@
   },
   {
     "name": "Ruby on Ice, Tegernsee, Germany",
-    "icon": "fa fa-music",
+    "icon": "fa fa-book",
     "items": ["Sub-interest 1", "Sub-interest 2"],
     "keywords": ["2018","Presented a 3 hour workshop on Machine learning and Tensorflow in Ruby"]
   },
