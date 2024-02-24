@@ -11,6 +11,10 @@ This blog post is a rough summary of the tooling that I have demoed at my talk o
 
 Slides link -> https://docs.google.com/presentation/d/1EFcFEn5ioXcMc-HiYdOxeK0CefW1eYlQ0Z0v4vv7Vuw/edit?usp=sharing 
 
+Websites recommended
+1. huggingface.co
+2. ollama.ai
+3. sourcegraph.com
 
 
 # Demo 1
