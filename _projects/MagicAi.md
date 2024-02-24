@@ -23,8 +23,11 @@ This demo was about the Moondream model, a cool vision-to-text model. You can fi
 This demo was about a combination of Llava model and Mixtral model to do image->text->text->system command using Ollama and some scripting. You can find the steps and the code for this in this [Github repo](https://github.com/cbh123/coach).
 
 ## Demo 3 
-This demo is from Sourcegraph Cody. You can try the product for free and if you like the product you can get a pro/enterprise license depending on your needs. If you face any issues or have any questions, feel free to [email me](mailto:ara.khan@sourcegraph.com).
+This demo is from Sourcegraph Cody. You can try the product for free and if you like the product you can get a pro/enterprise license depending on your needs. If you face any issues or have any questions, feel free to email me at ara.khan@sourcegraph.com. 
 
 [Sourcegraph Cody](https://sourcegraph.com/cody)
 
+You can also find all my socials on my website [here](https://arafatkatze.github.io).
+
 Thank you for attending my talk!
+
