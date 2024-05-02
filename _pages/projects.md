@@ -6,7 +6,7 @@ description: Some of my favourite life stories and photos
 nav: true
 nav_order: 2
 display_categories: [fun, work]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
