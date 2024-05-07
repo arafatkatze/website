@@ -5,7 +5,7 @@ description:
 importance: 1
 category: philosophy
 ---
-When people in SF are building companies they will often tell you things such as “*I am doing this as my life’s true purpose of giving back to the world*”, in the same breath they will tell you their goal is to “*make a billion dollar company to **make an impact** *”. I find this dishonesty to be laughably absurd because either you have to believe that I am stupid enough to belive you or either you are so stupid that you believe in your own lie(I would argue that the second case is worse).
+When people in SF are building companies they will often tell you things such as “*I am doing this as my life’s true purpose of giving back to the world*”, in the same breath they will tell you their goal is to “*make a billion dollar company to **make an impact**”.* I find this dishonesty to be laughably absurd because either you have to believe that I am stupid enough to belive you or either you are so stupid that you believe in your own lie(I would argue that the second case is worse).
 
 What’s interesting is that watching all the steve jobs and elon movies this idea of a saviour entrepreneur is drilled into your heads so we end up doing a cosplay of these people and end up in a peak cringe state. But here’s the kicker, I don’t think anyone around you buys into it, so maybe stop doing this cosplay and just be honest.
 
