@@ -3,7 +3,7 @@ layout: page
 title: Find your real motivations
 description: 
 importance: 1
-category: philosophy
+category: blank
 ---
 When people in SF are building companies they will often tell you things such as “*I am doing this as my life’s true purpose of giving back to the world*”, in the same breath they will tell you their goal is to “*make a billion dollar company to **make an impact**”.* I find this dishonesty to be laughably absurd because either you have to believe that I am stupid enough to belive you or either you are so stupid that you believe in your own lie(I would argue that the second case is worse).
 
