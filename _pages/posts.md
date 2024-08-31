@@ -2,7 +2,7 @@
 layout: page
 title: Blog
 permalink: /posts/
-description: Some thoughts on living well
+description: My 2 cents on life
 nav: true
 nav_order: 2
 display_categories: [philosophy]
@@ -19,10 +19,12 @@ horizontal: true
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
+  <div class="container mb-5">
+    <div class="row row-cols-2 g-3">
     {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+      <div class="col mb-3">
+        {% include projects_horizontal.html %}
+      </div>
     {%- endfor %}
     </div>
   </div>

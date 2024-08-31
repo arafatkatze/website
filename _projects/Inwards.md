@@ -1,6 +1,6 @@
 ---
 layout: page
-title: On looking inwards
+title: On Looking Inwards
 description: 
 importance: 1
 category: philosophy
