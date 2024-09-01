@@ -10,7 +10,7 @@ People often ask me how I manage to travel so much. They seem curious, even envi
 
 The key to understanding this is a simple equation:
 
-**freedom + safety = constant**
+**freedom * safety = constant**
 
 Freedom and safety are inversely related. The more you have of one, the less you have of the other. This isn't just a theoretical idea; it's a fact of life.
 
@@ -27,10 +27,6 @@ There’s another, subtler cost to freedom: **loneliness.**
 
 The more freedom you have, the more unique your experiences become. But the more unique your experiences, the harder it is to find people who can relate. You end up on paths that others aren’t willing to follow, and that can be isolating.
 
-Founding a company, surviving a snowstorm alone, pursuing adventures that few dare attempt—these are thrilling experiences, but they often leave you feeling like you’re navigating a storm with no one else around.
-
-Freedom lets you rise above the constraints of ordinary life, but it also leaves you alone in the clouds. Instagram shows the highlights, not the nights spent in isolation.
-
-So should you pursue freedom? Absolutely. But understand what you’re giving up. The coolest things in life come with risks, with uncertainty, and yes, with loneliness. If you want big rewards, you have to accept the discomfort that comes with them.
+Founding a company, surviving a snowstorm alone, pursuing adventures that few dare attempt—these are thrilling experiences, but they often leave you feeling like you’re navigating a storm with no one else around. Freedom lets you rise above the constraints of ordinary life, but it also leaves you alone in the clouds. Instagram shows the highlights, not the nights spent in isolation. So should you pursue freedom? Absolutely. But understand what you’re giving up. The coolest things in life come with risks, with uncertainty, and yes, with loneliness. If you want big rewards, you have to accept the discomfort that comes with them.
 
 In the end, freedom isn’t about escaping constraints. It’s about choosing which constraints to bear, and having the courage to walk paths that others won’t. The reward? The view from the top is worth the climb.
