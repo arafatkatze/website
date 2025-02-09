@@ -3,7 +3,7 @@ layout: page
 title: The Last Real Ski Bum
 description: 
 importance: 1
-category: philosophy
+category: blank
 ---
 
 In a world where skiing has become increasingly commodified – a "rich white person sport" as many would say – there exist rare characters who remind us of the sport's raw, authentic roots. Charlie Egger is one such character, and his story is worth telling not because it's admirable in any conventional sense, but because it's real.
@@ -15,3 +15,7 @@ Was he a liability? Possibly. Was he self-destructive? Perhaps. But in a culture
 I share this not to glorify recklessness or irresponsibility, but to acknowledge the importance of genuine characters in any community. While I'll continue my path as an engineer, playing within the lines that define my life, I can't help but feel grateful for the Charlies of the world who remind us that there are other ways to exist.
 
 Charlie isn’t a role model. He’s something better: a reminder that the world still holds space for those who refuse to play by its rules. And maybe, just maybe, that’s worth celebrating.
+
+Diogenes was lying in the sun by his barrel when Alexander the Great approached him. Despite his immense power, Alexander came to visit the philosopher, who was known for living an extremely simple life
+Alexander introduced himself and offered to grant Diogenes anything he wished2.
+Diogenes, who was enjoying the warmth of the sun, simply replied: "Stand aside to stop blocking the sun
